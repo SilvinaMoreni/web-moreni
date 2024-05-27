@@ -1,0 +1,40 @@
+.certificaciones{
+    width: 100vw;
+    height: 40vh;
+    background-color: rgba(128, 128, 128, 0.471);
+    display: flex;
+    gap:20px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient( 0deg,  rgb(128, 128, 128), white); 
+
+}
+
+.logo{
+    margin-top: 20px;
+}
+
+.logo:hover{
+    -webkit-transform:scale(1.2);
+    -moz-transform:scale(1.2);
+    -ms-transform:scale(1.2);
+    -o-transform:scale(1.2);
+    transform:scale(1.2);
+}
+
+
+.certifica{
+    background-color: white;
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    color: orangered;
+}
+
+
+    
